@@ -30,12 +30,12 @@ var app = builder.Build();
 // ✅ Enable Swagger middleware
 if (app.Environment.IsDevelopment() || app.Environment.IsStaging() || app.Environment.IsProduction())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(options =>
-    {
-        options.SwaggerEndpoint("/swagger/v1/swagger.json", "Event Processor API v1");
-        options.RoutePrefix = string.Empty; // Serve Swagger at root: https://localhost:<port>/
-    });
+    //app.UseSwagger();
+    //app.UseSwaggerUI(options =>
+    //{
+    //    options.SwaggerEndpoint("/swagger/v1/swagger.json", "Event Processor API v1");
+    //    options.RoutePrefix = string.Empty; // Serve Swagger at root: https://localhost:<port>/
+    //});
 }
 
 app.UseAuthorization();
