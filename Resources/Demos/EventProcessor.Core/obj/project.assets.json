@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Core\\EventProcessor.Core.csproj",
+      "projectUniqueName": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Core\\EventProcessor.Core.csproj",
       "projectName": "EventProcessor.Core",
-      "projectPath": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Core\\EventProcessor.Core.csproj",
+      "projectPath": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Core\\EventProcessor.Core.csproj",
       "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
-      "outputPath": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Core\\obj\\",
+      "outputPath": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

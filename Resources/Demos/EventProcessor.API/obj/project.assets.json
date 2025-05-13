@@ -2707,11 +2707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.API\\EventProcessor.API.csproj",
+      "projectUniqueName": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.API\\EventProcessor.API.csproj",
       "projectName": "EventProcessor.API",
-      "projectPath": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.API\\EventProcessor.API.csproj",
+      "projectPath": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.API\\EventProcessor.API.csproj",
       "packagesPath": "C:\\Users\\Mostafa\\.nuget\\packages\\",
-      "outputPath": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.API\\obj\\",
+      "outputPath": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2733,8 +2733,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Application\\EventProcessor.Application.csproj": {
-              "projectPath": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Application\\EventProcessor.Application.csproj"
+            "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Application\\EventProcessor.Application.csproj": {
+              "projectPath": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Application\\EventProcessor.Application.csproj"
             }
           }
         }
