@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<del:BatchMediaDelivery xmlns:del="http://www.thales.dc/MediaDelivery" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.thales.dc/MediaDelivery configuration/CISInitialization.xsd">
+    <BatchDelivery>
+        <BatchDeliveryDate>2021-01-14T05:01:04+01:00</BatchDeliveryDate>
+        <ProductionMachineId>39512</ProductionMachineId>
+        <BatchOrderId>0</BatchOrderId>
+        <MediaTypeId>4</MediaTypeId>
+        <MediaExpiryDate>2021-01-14</MediaExpiryDate>
+        <MediaArtWork>4</MediaArtWork>
+    </BatchDelivery>
+    <AnonymousMediaDelivery>
+        <FareMedia>
+            <MediaSerialNumber>1186785266443392</MediaSerialNumber>
+            <MediaGraphicalNumber>265660</MediaGraphicalNumber>
+        </FareMedia>
+    </AnonymousMediaDelivery>
+</del:BatchMediaDelivery>
