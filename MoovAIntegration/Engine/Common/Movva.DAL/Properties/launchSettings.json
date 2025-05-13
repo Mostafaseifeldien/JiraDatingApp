@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Movva.DAL": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60470;http://localhost:60472"
+    }
+  }
+}
