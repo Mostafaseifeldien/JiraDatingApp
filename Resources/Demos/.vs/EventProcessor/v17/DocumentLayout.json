@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\USCT\\usct-connect\\Resources\\Demos\\",
+  "WorkspaceRootPath": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F0DFA45-C4AD-45E0-99E0-16D218188DF1}|EventProcessor.Infrastructure\\EventProcessor.Infrastructure.csproj|d:\\usct\\usct-connect\\resources\\demos\\eventprocessor.infrastructure\\apiclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{830A3437-17C0-4325-8F57-5115B23476F1}|EventProcessor.API\\EventProcessor.API.csproj|d:\\jirawithme\\datingapp\\resources\\demos\\eventprocessor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830A3437-17C0-4325-8F57-5115B23476F1}|EventProcessor.API\\EventProcessor.API.csproj|solutionrelative:eventprocessor.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DFA45-C4AD-45E0-99E0-16D218188DF1}|EventProcessor.Infrastructure\\EventProcessor.Infrastructure.csproj|d:\\jirawithme\\datingapp\\resources\\demos\\eventprocessor.infrastructure\\apiclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F0DFA45-C4AD-45E0-99E0-16D218188DF1}|EventProcessor.Infrastructure\\EventProcessor.Infrastructure.csproj|solutionrelative:eventprocessor.infrastructure\\apiclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F0DFA45-C4AD-45E0-99E0-16D218188DF1}|EventProcessor.Infrastructure\\EventProcessor.Infrastructure.csproj|d:\\usct\\usct-connect\\resources\\demos\\eventprocessor.infrastructure\\fileparsers\\eventfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F0DFA45-C4AD-45E0-99E0-16D218188DF1}|EventProcessor.Infrastructure\\EventProcessor.Infrastructure.csproj|d:\\jirawithme\\datingapp\\resources\\demos\\eventprocessor.infrastructure\\fileparsers\\eventfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F0DFA45-C4AD-45E0-99E0-16D218188DF1}|EventProcessor.Infrastructure\\EventProcessor.Infrastructure.csproj|solutionrelative:eventprocessor.infrastructure\\fileparsers\\eventfileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EE86DA5-C2C5-43CC-A259-639EEE4BC20F}|EventProcessor.Application\\EventProcessor.Application.csproj|d:\\usct\\usct-connect\\resources\\demos\\eventprocessor.application\\services\\eventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EE86DA5-C2C5-43CC-A259-639EEE4BC20F}|EventProcessor.Application\\EventProcessor.Application.csproj|d:\\jirawithme\\datingapp\\resources\\demos\\eventprocessor.application\\services\\eventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EE86DA5-C2C5-43CC-A259-639EEE4BC20F}|EventProcessor.Application\\EventProcessor.Application.csproj|solutionrelative:eventprocessor.application\\services\\eventdispatcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830A3437-17C0-4325-8F57-5115B23476F1}|EventProcessor.API\\EventProcessor.API.csproj|d:\\usct\\usct-connect\\resources\\demos\\eventprocessor.api\\controller\\eventprocessingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{830A3437-17C0-4325-8F57-5115B23476F1}|EventProcessor.API\\EventProcessor.API.csproj|d:\\jirawithme\\datingapp\\resources\\demos\\eventprocessor.api\\controller\\eventprocessingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{830A3437-17C0-4325-8F57-5115B23476F1}|EventProcessor.API\\EventProcessor.API.csproj|solutionrelative:eventprocessor.api\\controller\\eventprocessingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -59,54 +63,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventProcessor.API\\Program.cs",
+              "ToolTip": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.API\\Program.cs",
+              "RelativeToolTip": "EventProcessor.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:37:26.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApiClients.cs",
-              "DocumentMoniker": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Infrastructure\\ApiClients.cs",
+              "DocumentMoniker": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Infrastructure\\ApiClients.cs",
               "RelativeDocumentMoniker": "EventProcessor.Infrastructure\\ApiClients.cs",
-              "ToolTip": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Infrastructure\\ApiClients.cs",
+              "ToolTip": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Infrastructure\\ApiClients.cs",
               "RelativeToolTip": "EventProcessor.Infrastructure\\ApiClients.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCEAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T22:27:41.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EventDispatcherService.cs",
-              "DocumentMoniker": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Application\\Services\\EventDispatcherService.cs",
+              "DocumentMoniker": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Application\\Services\\EventDispatcherService.cs",
               "RelativeDocumentMoniker": "EventProcessor.Application\\Services\\EventDispatcherService.cs",
-              "ToolTip": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Application\\Services\\EventDispatcherService.cs",
+              "ToolTip": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Application\\Services\\EventDispatcherService.cs",
               "RelativeToolTip": "EventProcessor.Application\\Services\\EventDispatcherService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:44:58.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T18:44:58.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EventFileParser.cs",
-              "DocumentMoniker": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Infrastructure\\FileParsers\\EventFileParser.cs",
+              "DocumentMoniker": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Infrastructure\\FileParsers\\EventFileParser.cs",
               "RelativeDocumentMoniker": "EventProcessor.Infrastructure\\FileParsers\\EventFileParser.cs",
-              "ToolTip": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.Infrastructure\\FileParsers\\EventFileParser.cs",
+              "ToolTip": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.Infrastructure\\FileParsers\\EventFileParser.cs",
               "RelativeToolTip": "EventProcessor.Infrastructure\\FileParsers\\EventFileParser.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAswFsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:29:45.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T18:29:45.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EventProcessingController.cs",
-              "DocumentMoniker": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.API\\Controller\\EventProcessingController.cs",
+              "DocumentMoniker": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.API\\Controller\\EventProcessingController.cs",
               "RelativeDocumentMoniker": "EventProcessor.API\\Controller\\EventProcessingController.cs",
-              "ToolTip": "D:\\USCT\\usct-connect\\Resources\\Demos\\EventProcessor.API\\Controller\\EventProcessingController.cs",
+              "ToolTip": "D:\\jirawithme\\DatingApp\\Resources\\Demos\\EventProcessor.API\\Controller\\EventProcessingController.cs",
               "RelativeToolTip": "EventProcessor.API\\Controller\\EventProcessingController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAcwCUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T18:22:49.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T18:22:49.699Z"
             }
           ]
         }

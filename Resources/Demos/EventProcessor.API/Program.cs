@@ -38,6 +38,6 @@ if (app.Environment.IsDevelopment() || app.Environment.IsStaging() || app.Enviro
     //});
 }
 
-app.UseAuthorization();
-app.MapControllers();
+//app.UseAuthorization();
+//app.MapControllers();
 app.Run();
